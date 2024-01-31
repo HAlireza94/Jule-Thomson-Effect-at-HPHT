@@ -9,4 +9,6 @@ Moreover, the performance of translated-consistent Peng-Robinson and translated-
 up to high pressures (360 atm) in comparison to the other equations of state.
 The dependency of the Joule – Thomson coefficient as a function of the mole fraction has been investigated.
 To compare better, Joule–Thomson inversion curves are also depicted for a variety of systems, containing pure, binary, ternary, and multicomponent mixtures.
-The obtained results are compared to the experimental data, correlated results, and molecular simulations.
+All codes are written in MATLAB.
+
+
